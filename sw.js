@@ -2,8 +2,8 @@ const CACHE_NAME = "passwordlab-cache-v1";
 const urlsToCache = [
     "./index.html",
     "./assets/icon-TtExP3Dk.svg",
-    "./assets/index-CbECoqgd.js",
-    "./assets/index-CeR_1FoN.css"
+    "./assets/index-DE3HMvan.css",
+    "./assets/index-DeSNzJT4.js"
 ];
 
 self.addEventListener("install", event => {
